@@ -1,0 +1,2 @@
+(this["webpackJsonpcalliope-lite-backbone"]=this["webpackJsonpcalliope-lite-backbone"]||[]).push([[38],{114:function(e,o,p){e.exports=p.p+"static/media/logo-black.6e42f353.png"}}]);
+//# sourceMappingURL=38.02cff28f.chunk.js.map
